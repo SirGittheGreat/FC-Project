@@ -16,5 +16,10 @@ namespace FC_Project
         {
             InitializeComponent();
         }
+
+        private void OpenCOMs_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

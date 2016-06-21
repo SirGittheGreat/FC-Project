@@ -39,6 +39,7 @@
             this.OpenCOMs.TabIndex = 0;
             this.OpenCOMs.Text = "Open COM Port";
             this.OpenCOMs.UseVisualStyleBackColor = true;
+            this.OpenCOMs.Click += new System.EventHandler(this.OpenCOMs_Click);
             // 
             // Form1
             // 
